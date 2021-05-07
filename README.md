@@ -15,7 +15,7 @@ The Smart Attendance Management System first scans image of student through came
 ## FLOW DIAGRAM
 
 <p align="center">
-<img src="https://github.com/Aniruddha004/Smart_Attendance_Management_App/blob/master/images/Flow%20Diagram.png" height="400">
+<img src="https://github.com/Aniruddha004/Smart_Attendance_Management_App/blob/master/images/Flow%20Diagram.jpg" height="400">
 </p>
 
 ## DATABASE STRUCTURE
@@ -27,10 +27,10 @@ The Smart Attendance Management System first scans image of student through came
 Face Recognition Model : [Click Here](https://drive.google.com/file/d/1EJnMNjI4fCBkewhpUShoGx9uZNw9uIQ7/view?usp=sharing) <br/>
 Training Model Notebook: [Click Here](https://www.kaggle.com/omkaramilkanthwar/face-model)
 
-# SCREENSHOTS
+## SCREENSHOTS
 <img src="https://github.com/Aniruddha004/Smart_Attendance_Management_App/blob/master/images/login_dark.jpg" height="270">   <img src="https://github.com/Aniruddha004/Smart_Attendance_Management_App/blob/master/images/login_light.jpg" height="270">   <img src="https://github.com/Aniruddha004/Smart_Attendance_Management_App/blob/master/images/signup_dark.jpg" height="270">    <img src="https://github.com/Aniruddha004/Smart_Attendance_Management_App/blob/master/images/signup_light.jpg" height="270">  <img src="https://github.com/Aniruddha004/Smart_Attendance_Management_App/blob/master/images/a_dark.jpg" height="270">  <img src="https://github.com/Aniruddha004/Smart_Attendance_Management_App/blob/master/images/a_light.jpg" height="270"> &nbsp;
 
-# USER INSTRUCTIONS
+## USER INSTRUCTIONS
 * Install Dependencies  
     `pip install -r requirements.txt` 
     
@@ -40,7 +40,7 @@ Training Model Notebook: [Click Here](https://www.kaggle.com/omkaramilkanthwar/f
 * Run Desktop Client  
     `python UI.py`
 
-# Meet the Makers
+## Meet the Makers
 Made with 💖 by Team \
 Omkar Amilkanthwar  &nbsp; -  [lnx2000](https://github.com/lnx2000)\
 Aniruddha Deshmukh   - [Aniruddha004](https://github.com/Aniruddha004) \
